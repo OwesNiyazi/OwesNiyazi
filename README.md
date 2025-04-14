@@ -1,6 +1,16 @@
 👋 Hey there, I'm Owes Niyazi!
 🚀 About Me
 I'm a passionate web developer with experience in React.js for frontend and Node.js for backend development. I also have a strong background in IoT, where I work with Arduino, ESP8266, and microcontrollers.
+project link :
+https://owesniyazi.github.io/profile/
+https://magical-crostata-31dd86.netlify.app/
+https://meek-maamoul-f52ede.netlify.app/
+https://hilarious-fenglisu-1df214.netlify.app/
+https://illustrious-zabaione-b2e9c9.netlify.app/
+https://dynamic-meerkat-35b872.netlify.app/
+
+
+
 
 📚 Currently Learning
 I'm diving deeper into backend development with Node.js, Express.js, and MongoDB to build scalable web applications.
